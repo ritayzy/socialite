@@ -1,5 +1,15 @@
 # Laravel Socialite
 
+## Link
+
+### [Using Github authentication for login with Laravel Socialite](https://mattstauffer.co/blog/using-github-authentication-for-login-with-laravel-socialite)
+
+### [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749#section-1.2)
+
+### [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html)
+
+### [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
 ## Introduction
 
 Laravel Socialite provides an expressive, fluent interface to OAuth authentication with Facebook, Twitter, Google, LinkedIn, GitHub and Bitbucket. It handles almost all of the boilerplate social authentication code you are dreading writing.
